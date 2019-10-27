@@ -1,0 +1,32 @@
+------------------------------
+Quick.Cart by OpenSolution.org
+www.opensolution.org
+------------------------------
+
+Requirements:
+http://opensolution.org/Quick.Cart/docs/ext_6.6/?id=en-requirements#1
+
+How to install the script:
+http://opensolution.org/Quick.Cart/docs/ext_6.6/?id=en-requirements#2
+
+How to log on to the admin panel:
+http://opensolution.org/Quick.Cart/docs/ext_6.6/?id=en-requirements#4
+
+How to use the script, modify its design and the script itself, tips & tricks etc.:
+http://opensolution.org/Quick.Cart/docs/ext_6.6/
+
+License
+------------------
+1. Freeware edition of Quick.Cart is released under license: http://opensolution.org/licenses.html
+2. Licenses for plugins (mlbox, valums file uploader and tinymce) installed in the script are located in "plugins/" directory.
+
+Backup
+------------------
+Make a copy of the "database/" directory from time to time. This directory contains pages' data, translations and configuration files.
+Most hosting providers make backup copies. Contact your hosting provider to get more info.
+
+Important links
+------------------
+http://opensolution.org/ - OpenSolution home page
+http://opensolution.org/web-directory.html - Web directory of websites based on Quick.Cms or Quick.Cart scripts
+http://opensolution.org/forum/ - Support forum

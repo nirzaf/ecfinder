@@ -1,0 +1,97 @@
+/*
+ * VERSION 2.1-SNAPSHOT
+ * Original version: 1.0 © 2010 Andrew Valums ( andrew(at)valums.com )
+ * Current Maintainer (2.0+): 2012, Ray Nicholus ( fineuploader(at)garstasio.com )
+ *
+ * Licensed under MIT license, GNU GPL 2 or later, GNU LGPL 2 or later, see license.txt.
+ */
+.qq-uploader {
+    position: relative;
+    width: 568px;
+    margin-bottom:10px;
+    padding:5px 0;
+    border:1px solid #dadada;
+}
+.qq-upload-button {
+    display: block;
+    /*or inline-block*/
+    width: 255px;
+    margin:0 auto;
+    padding: 7px 0;
+    text-align: center;
+    background: #d4d0c8;
+    border-width:1px;
+    border-style:solid;
+    border-color:#fff #404040 #404040 #fff;
+    color: #000;
+}
+.qq-upload-button-hover {
+    background: #dfdcd7;
+    text-decoration:underline;
+}
+.qq-upload-button-focus {
+    outline: 1px dotted #000000;
+}
+.qq-upload-list {
+    margin: 5px 0 0;
+    padding: 0;
+    list-style: none;
+    border-bottom:1px solid #dadada;
+}
+.qq-upload-list li {
+    margin: 0;
+    padding: 5px;
+    line-height: 15px;
+    background-color: #e9e9e9;
+    border-top:1px solid #dadada;
+}
+.qq-upload-file, .qq-upload-spinner, .qq-upload-size, .qq-upload-cancel, .qq-upload-failed-text, .qq-upload-finished {
+    margin-right: 20px;
+}
+.qq-upload-file {
+}
+.qq-upload-spinner {
+    display: inline-block;
+    background: url("loading.gif");
+    width: 15px;
+    height: 15px;
+    vertical-align: text-bottom;
+}
+.qq-upload-finished {
+    display:none;
+    width:15px;
+    height:15px;
+    vertical-align:text-bottom;
+}
+.qq-upload-size, .qq-upload-cancel {
+    font-size: 12px;
+    font-weight: normal;
+}
+.qq-upload-failed-text {
+    display: none;
+    font-style: italic;
+    font-weight: bold;
+}
+.qq-upload-failed-icon {
+    display:none;
+    width:15px;
+    height:15px;
+    vertical-align:text-bottom;
+}
+.qq-upload-fail .qq-upload-failed-text {
+    display: inline;
+}
+.qq-upload-list li.qq-upload-success {
+    background-color: #e9e9e9;
+}
+.qq-upload-list li.qq-upload-fail {
+    background-color: #f7f7f7;
+    color: #ca2222;
+}
+.qq-progress-bar {
+    display: none;
+}
+.qq-upload-list li.qq-upload-maxdimension {
+    background-color: #f7f7f7;
+    color: #ca2222;
+}

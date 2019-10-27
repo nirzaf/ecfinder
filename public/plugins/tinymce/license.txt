@@ -1,0 +1,7 @@
+TinyMCE - Javascript WYSIWYG Editor is basen on:
+
+GNU LESSER GENERAL PUBLIC LICENSE
+Version 2.1, February 1999
+
+License content:
+http://www.tinymce.com/js/tinymce/jscripts/tiny_mce/license.txt

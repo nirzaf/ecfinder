@@ -1,0 +1,245 @@
+<?php
+/*
+* Polski
+*/
+$config['charset'] = 'utf-8';
+?><?php
+/*
+* Tłumaczenia widoczne po stronie klienta i w administracji. Musi być przetłumaczone!
+*/
+$lang['404_error'] = "Błąd 404 nie znaleziono strony";
+$lang['back'] = "powrót";
+$lang['Basket_add'] = "Do koszyka";
+$lang['Basket_empty'] = "Koszyk jest pusty";
+$lang['Basket_products'] = "Produktów w koszyku";
+$lang['cf_mail'] = "Podaj poprawny e-mail";
+$lang['cf_no_word'] = "Wypełnij poprawnie wymagane pola";
+$lang['cf_wrong_value'] = "Podaj poprawną wartość";
+$lang['Checkout'] = "Zamów";
+$lang['City'] = "Miasto";
+$lang['Comment'] = "Komentarz";
+$lang['Company'] = "Firma";
+$lang['Continue_shopping'] = "&laquo; Kontynuuj zakupy";
+$lang['Data_not_found'] = "Nie znaleziono danych";
+$lang['Date'] = "Data";
+$lang['Default'] = "Domyślnie";
+$lang['Delete'] = "Usuń";
+$lang['Email'] = "Email";
+$lang['First_and_last_name'] = "Imię i nazwisko";
+$lang['First_name'] = "Imię";
+$lang['Last_name'] = "Nazwisko";
+$lang['Menu_3'] = "Produkty";
+$lang['Name'] = "Nazwa";
+$lang['Operation_completed'] = "Operacja wykonana poprawnie";
+$lang['Order_customer_email_foot'] = "";
+$lang['Order_customer_email_head'] = "";
+$lang['Order_customer_info_title'] = "Dziekujemy za zamowienie. Id zamowienia: ";
+$lang['Order_customer_personal'] = "Twoje dane osobowe";
+$lang['Order_customer_products'] = "Zamowione produkty";
+$lang['Order_customer_shipping'] = "Sposob dostawy i platnosc";
+$lang['Page_next'] = "Następna »";
+$lang['Page_prev'] = "« Poprzednia";
+$lang['Pages'] = "Strony";
+$lang['preview'] = "podgląd";
+$lang['Price'] = "Cena";
+$lang['print'] = "drukuj";
+$lang['Products'] = "Produkty";
+$lang['Quantity'] = "Ilość";
+$lang['Remember_basket'] = "Zapamiętaj koszyk";
+$lang['Require_rules_accept'] = "Zakceptuj warunki regulaminu aby kontynuować";
+$lang['required'] = "wymagane";
+$lang['Rules_accept'] = "Akceptuję warunki regulaminu";
+$lang['rules_read'] = "przeczytaj regulamin";
+$lang['save'] = "zapisz";
+$lang['search'] = "szukaj";
+$lang['Search_form'] = "Wyszukiwarka";
+$lang['Select'] = "Wybierz";
+$lang['Select_shipping_and_payment'] = "Wybierz sposób dostawy i płatności";
+$lang['Send_order'] = "Potwierdzam zakup";
+$lang['Shipping_and_payment'] = "Sposób dostawy i płatność";
+$lang['Skip_to_content'] = "Przejdź do treści";
+$lang['Skip_to_main_menu'] = "Przejdź do menu głównego";
+$lang['Skip_to_search'] = "Przejdź do wyszukiwarki";
+$lang['Sort_by'] = "Sortuj wg:";
+$lang['Street'] = "Ulica i nr";
+$lang['Summary'] = "Wartość";
+$lang['Summary_cost'] = "Kwota do zapłaty";
+$lang['Telephone'] = "Telefon";
+$lang['View_all'] = "Zobacz wszystkie";
+$lang['Your_personal_data'] = "Twoje dane osobowe";
+$lang['Zip_code'] = "Kod";
+
+/*
+* Tłumaczenia widoczne tylko w administracji. Tłumaczenie nie jest wymagane
+*/
+$lang['Subpage_show_1'] = "Lista (tylko nazwy)";
+$lang['Subpage_show_2'] = "Lista (nazwa, opis)";
+$lang['Subpage_show_3'] = "Lista (nazwa, opis, zdjęcie)";
+$lang['Subpage_show_4'] = "News (nazwa, opis, zdjęcie)";
+$lang['Subpage_show_5'] = "Galeria (nazwa, zdjęcie)";
+$lang['Subpage_show_0'] = "Brak wyświetlania";
+$lang['Active'] = "Aktywny";
+$lang['Add_files'] = "Dodaj pliki";
+$lang['Added_to'] = "Dodany do";
+$lang['Additional_info'] = "Dodatkowe informacje";
+$lang['Address'] = "Przekieruj na adres";
+$lang['Admin'] = "Admin";
+$lang['Admin_items_on_page'] = "Elementów na stronę w administracji";
+$lang['Admin_language'] = "Język w administracji";
+$lang['Admin_see_hidden_pages'] = "Administrator może zobaczyć ukryte strony i produkty";
+$lang['Advanced'] = "Zaawansowane";
+$lang['All_pages'] = "Wszystkie strony";
+$lang['All_status'] = "Wszystkie statusy";
+$lang['Basket_page'] = "Strona z koszykiem";
+$lang['Cancel'] = "Anuluj";
+$lang['cf_to_small_value'] = "Zbyt mała wartość";
+$lang['cf_txt_to_short'] = "Zbyt mało tekstu";
+$lang['Change_files_names'] = "Dostosuj nazwy plików do nazw stron i produktów";
+$lang['Change_login_and_pass'] = "Zmień login i hasło w konfiguracji!";
+$lang['Change_login_and_pass_to_use_script'] = "Zmień login i hasło, aby korzystać ze skryptu!";
+$lang['Change_status'] = "Zmień zaznaczone na";
+$lang['Check_for_fixes'] = "Sprawdź czy posiadasz wszystkie poprawki.";
+$lang['Choose_files_to_attach'] = "Wybierz pliki z serwera i zapisz formularz";
+$lang['Clone_data_from_basic_language'] = "Klonuj dane z języka podstawowego";
+$lang['Contact'] = "Kontakt";
+$lang['Currency_symbol'] = "Waluta";
+$lang['dashboard'] = "pulpit";
+$lang['Dashboard'] = "Pulpit";
+$lang['Default_language'] = "Domyślny język";
+$lang['delete'] = "usuń";
+$lang['Delete_unused_files'] = "Usuwaj nieużywane pliki z serwera";
+$lang['Description'] = "Opis";
+$lang['display'] = "wyświetl";
+$lang['Display_expanded_menu'] = "Wyświetl rozwinięte menu";
+$lang['Display_remember_basket'] = "Wyświetl przycisk &quot;Zapamiętaj koszyk&quot;";
+$lang['Display_subcategory_products'] = "Wyświetl produkty z podkategorii w kategorii głównej";
+$lang['Display_tabs'] = "Wyświetl zakładki";
+$lang['edit'] = "edytuj";
+$lang['example'] = "np.";
+$lang['Extend'] = "Rozszerz";
+$lang['Failed_login_wait_time'] = "Przekroczono limit prób logowania<br />Odczekaj 15 minut";
+$lang['FAQ'] = "FAQ";
+$lang['File'] = "Plik";
+$lang['Files'] = "Pliki";
+$lang['Files_from_computer'] = "Pliki z komputera";
+$lang['Files_on_server'] = "Pliki na serwerze";
+$lang['Foot_info'] = "Informacje w stopce";
+$lang['Forgot_your_password'] = "Nie pamiętasz hasła?";
+$lang['Forum'] = "Forum";
+$lang['Full_description'] = "Opis pełny";
+$lang['Gallery'] = "Galeria";
+$lang['Hidden'] = "Ukryta";
+$lang['hide'] = "ukryj";
+$lang['Hide_tabs'] = "Ukryj zakładki";
+$lang['homepage'] = "strona główna";
+$lang['Id'] = "Id";
+$lang['Image_over_max_dimension'] = "Zbyt duży obrazek aby stworzyć miniaturkę";
+$lang['Increase_security'] = "Zwiększ bezpieczeństwo strony. Dowiedz się więcej w zaleceniach.";
+$lang['Items'] = "Listy";
+$lang['Key_words'] = "Słowa kluczowe";
+$lang['Language'] = "Język";
+$lang['Language_in_url'] = "Identyfikator języka w URL";
+$lang['Languages'] = "Języki";
+$lang['Last_login'] = "Ostatnie logowanie";
+$lang['Left'] = "Lewa";
+$lang['License'] = "Licencja";
+$lang['log_in'] = "zaloguj się";
+$lang['log_out'] = "wyloguj się";
+$lang['Login'] = "Login";
+$lang['Logo'] = "Logo";
+$lang['Mail_informing'] = "Informacja o nowym zamówieniu na e-mail";
+$lang['Manual'] = "Instrukcja";
+$lang['Menu'] = "Menu";
+$lang['Menu_0'] = "Ukryte strony";
+$lang['Menu_1'] = "Menu górne - pierwsze";
+$lang['Menu_2'] = "Menu górne - drugie";
+$lang['Meta_description'] = "Opis meta";
+$lang['More'] = "Więcej";
+$lang['Need_more'] = "Potrzebujesz więcej?";
+$lang['New_events'] = "Nowe zdarzenia";
+$lang['New_language'] = "Nowy język";
+$lang['New_page'] = "Nowa strona";
+$lang['New_payment_method'] = "Nowa płatność";
+$lang['New_product'] = "Nowy produkt";
+$lang['New_shipping'] = "Nowy sposób dostawy";
+$lang['News_from_os'] = "Aktualności z OpenSolution.org";
+$lang['no'] = "nie";
+$lang['none'] = "brak";
+$lang['Notifications'] = "Komunikaty";
+$lang['Operation_sure'] = "Czy chcesz wykonać tą operację?";
+$lang['Operation_sure_delete'] = "Czy chcesz usunąć";
+$lang['Operation_unknown'] = "Błąd: nie wykonano żadnej akcji";
+$lang['Options'] = "Opcje";
+$lang['Order'] = "Zamówienie";
+$lang['Order_page'] = "Strona z formularzem zamówienia";
+$lang['Order_print'] = "Strona z wydrukiem zamówień";
+$lang['Orders'] = "Zamówienia";
+$lang['Orders_canceled'] = "Anulowane";
+$lang['Orders_finished'] = "Zrealizowane";
+$lang['Orders_pending'] = "Oczekujące";
+$lang['Orders_processing'] = "W realizacji";
+$lang['Orders_search_products'] = "Szukaj w produktach";
+$lang['Page_search'] = "Strona z wynikami szukania";
+$lang['Page_title'] = "Tytuł strony";
+$lang['Pages_form'] = "Edycja strony";
+$lang['Parent_page'] = "Strona nadrzędna";
+$lang['Password'] = "Hasło";
+$lang['Payment_method'] = "Płatność";
+$lang['Payment_method_form'] = "Edycja płatności";
+$lang['Payment_methods'] = "Płatności";
+$lang['Photo_place'] = "Lokalizacja";
+$lang['Plugins'] = "Dodatki";
+$lang['Position'] = "Pozycja";
+$lang['Product_available'] = "Dostępność produktu";
+$lang['Products_and_payment'] = "Produkty i płatność";
+$lang['Products_form'] = "Edycja produktu";
+$lang['Products_on_page'] = "Produktów na stronę";
+$lang['Right'] = "Prawa";
+$lang['Rules_page'] = "Strona z regulaminem";
+$lang['save_add_new'] = "zapisz i dodaj kolejne";
+$lang['save_list'] = "zapisz i przejdź do listy";
+$lang['Send_customer_order_details'] = "Wyślij klientowi szczegóły zamówienia";
+$lang['SEO'] = "SEO";
+$lang['Settings'] = "Konfiguracja";
+$lang['Shipping'] = "Sposoby dostawy";
+$lang['Shipping_form'] = "Edycja sposobu dostawy";
+$lang['Short_description'] = "Opis krótki";
+$lang['Skin'] = "Skórka";
+$lang['Skins'] = "Skórki";
+$lang['Slogan'] = "Slogan";
+$lang['Sort_products'] = "Opcja sortowania produktów";
+$lang['Start_page'] = "Strona startowa";
+$lang['Status'] = "Status";
+$lang['Subpages'] = "Podstrony";
+$lang['Support'] = "Wsparcie";
+$lang['Theme'] = "Temat";
+$lang['Thumbnail_1'] = "Miniaturka 1";
+$lang['Thumbnail_2'] = "Miniaturka 2";
+$lang['Tools'] = "Narzędzia";
+$lang['Translation_visible_all'] = "Tłumaczenia widoczne po stronie klienta i w administracji. Musi być przetłumaczone!";
+$lang['Translation_visible_back_end'] = "Tłumaczenia widoczne tylko w administracji. Tłumaczenie nie jest wymagane";
+$lang['Upload_failed'] = "Wgrywanie nieudane";
+$lang['Upload_language_file'] = "Wgraj tłumaczenie";
+$lang['Upload_language_file_info'] = "Pobierz tłumaczenie z <a href='http://opensolution.org/?p=download&sDir=Quick.Cart/translations' target='_blank'>OpenSolution</a>";
+$lang['Url_name'] = "Nazwa url";
+$lang['Use_language'] = "Stwórz język na podstawie";
+$lang['Wrong_login_or_pass'] = "Nieprawidłowy login lub hasło";
+$lang['WYSIWIG_editor'] = "Edytor WYSWIG";
+$lang['yes'] = "tak";
+$lang['Yes'] = "Tak";
+$lang['Yes_without_files'] = "Tak, bez plików";
+
+/*
+* Nie zmieniaj tego co jest poniżej
+*/
+if( !defined( 'LANG_YES_SHORT' ) )
+  define( 'LANG_YES_SHORT', $lang['yes'] );
+if( !defined( 'LANG_NO_SHORT' ) )
+  define( 'LANG_NO_SHORT', $lang['no'] );
+if( !defined( 'LANG_PAGE_PREV' ) )
+  define( 'LANG_PAGE_PREV', $lang['Page_prev'] );
+if( !defined( 'LANG_PAGE_NEXT' ) )
+  define( 'LANG_PAGE_NEXT', $lang['Page_next'] );
+?><?php
+// plugins
+?>
